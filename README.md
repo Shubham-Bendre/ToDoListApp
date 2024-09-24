@@ -19,10 +19,6 @@ This is a **simple To-Do List application** built with Java Swing. It provides a
   - **Clear Completed**: Removes all completed tasks from the list.
   - **Rearrange**: Sorts tasks based on their priority.
 
-## Screenshots
-
-*(You can add screenshots here to provide a visual representation of the app)*
-
 ## Technologies Used
 
 - **Language**: Java
